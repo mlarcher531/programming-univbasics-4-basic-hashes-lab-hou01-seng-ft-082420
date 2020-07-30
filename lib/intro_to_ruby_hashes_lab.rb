@@ -14,6 +14,7 @@ def pioneer
     name: "Grace Hopper"
   }
 end
+pioneer
 
 
 def id_hash_generator(number)
